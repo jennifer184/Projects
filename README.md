@@ -3,4 +3,6 @@
 
 ![base](trip-planner.gif)
 
-* Cat Feeder
+* Raspberry Pi Cat Feeder with Webcam 
+* Windows Flash Card App
+* 20 Questions Guessing Game in terminal
