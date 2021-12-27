@@ -1,4 +1,6 @@
 # List of Projects:
-* Group Project - Trip Planning Web App
+* Trip Planning Web App - 4 Month Group Project
 
-![base](trip-planner.png)
+![base](trip-planner.gif)
+
+* Cat Feeder
