@@ -5,8 +5,11 @@ About Me
  
  ## List of Projects:
 * Trip Planning Web App - 4 Month Group Project
-
-![base](trip-planner.gif)
+![base](/images/trip-planner.gif)
 
 * Remote Cat Feeder with Webcam using Raspberry Pi
-![base](pet_feeder.png)
+![base](/images/pet_feeder.png)
+
+* Apache Commons Lang Regression Testing Time and Suite Reduction - Group Project:
+![base](/images/graphTestSuite.png)
+![base](/images/graphTestTime.png)
